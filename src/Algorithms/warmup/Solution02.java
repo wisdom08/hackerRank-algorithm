@@ -3,7 +3,7 @@ package Algorithms.warmup;
 import java.util.Scanner;
 import java.io.*;
 
-public class Solutions02 {
+public class Solution02 {
 
     static int simpleArraySum(int[] ar) {
 
