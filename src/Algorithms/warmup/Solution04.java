@@ -24,8 +24,6 @@ public class Solution04 {
             total ++;
         }
 
-
-
         System.out.printf("%1.6f\n", positive/total);
         System.out.printf("%1.6f\n", negative/total);
         System.out.printf("%1.6f\n", zero/total);
